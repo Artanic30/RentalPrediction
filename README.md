@@ -1,7 +1,7 @@
 # RentalPrediction
-#### Here is a fake paper fro ma boring topic...
+#### Here is a fake paper from a boring topic...
 
-- Raw data--FetchData/data
+- Raw data--FetchData/data 
 - Feature data--FeatureGeneration/data 
 - Network models and regression result--Predict/storage
 - Network training tensorboard logs--Predict/runs
